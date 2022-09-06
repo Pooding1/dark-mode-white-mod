@@ -14,10 +14,10 @@
 	function dark(){
 		document.body.style.backgroundColor = "black"; 
 		document.body.style.color = "white";
-		document.getElementByTagName('h2').colorr = "gold";
+		document.querySelector('h2').style.color = "gold";
 	}
 
-	function dark(){
+	function white(){
 		document.body.style.backgroundColor = "white";
 		document.body.style.color = "black";
 		document.querySelector('h2').style.color ='pink';
@@ -56,7 +56,10 @@
 </html>
 ```
 # html 코드 설명
-ㅁㄴㅇㅁㄴㅇㅁ
+버튼을 눌러 웹페이지에서 다크모드와 화이트 모드를 번갈아가며 설정할수있다
+
+function 함수를 활용하여 background 색상과 font 색상을 지정하였습니다
+
 # css코드
 ```css
 @charset "UTF-8";
@@ -70,3 +73,4 @@ body{
 }
 ```
 # css코드 설명
+css코드로 폰트와 넓이를 설정하였다
