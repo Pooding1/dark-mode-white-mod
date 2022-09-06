@@ -1,5 +1,6 @@
 # dark-mode-white-mod
 # 다크모드 만들기
+# html코드
 ```html
 <!DOCTYPE html>
 <html>
@@ -53,6 +54,8 @@
 
 </body>
 </html>
+# css
+```css
 @charset "UTF-8";
 
 *{
