@@ -1,6 +1,6 @@
 # dark-mode-white-mod
 # 다크모드 만들기
-```html```
+```html
 <!DOCTYPE html>
 <html>
 <head>
@@ -53,3 +53,5 @@
 
 </body>
 </html>
+html```
+
