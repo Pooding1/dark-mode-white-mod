@@ -54,15 +54,4 @@
 
 </body>
 </html>
-# css
-```css
-@charset "UTF-8";
-
-*{
-	font-family : "함초롱바탕"
-}
-
-body{
-	width :	"500"
-}
-
+```html
