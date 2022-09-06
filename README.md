@@ -53,7 +53,7 @@
 
 </body>
 </html>
-```css
+```html
 @charset "UTF-8";
 
 *{
